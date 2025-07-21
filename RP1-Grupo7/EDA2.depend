@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1747931675 source:c:\users\administrator\documents\preojects c\eda2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<ctype.h>
+	"Biseccion.h"
+	"Prestador.h"
+	"LSO_FD.h"
+	"ABBFD.h"
+	"ABB.h"
+
+1746223001 
+
+1747931813 c:\users\administrator\documents\preojects c\eda2\biseccion.h
+	"Prestador.h"
+	"LSO_FD.h"
+	<string.h>
+	<locale.h>
+
+1747679257 c:\users\administrator\documents\preojects c\eda2\prestador.h
+
+1746222044 c:\users\administrator\documents\preojects c\eda2\lsoss.h
+	<string.h>
+	<locale.h>
+	"Prestador.h"
+
+1746222044 .h"
+
+1747931624 c:\users\administrator\documents\preojects c\eda2\abb.h
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"Prestador.h"
+
+1746312306 source:/home/pepe/Desktop/Proyectos Eda./EDA2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<ctype.h>
+	"Biseccion.h"
+	"Prestador.h"
+	"ABB.h"
+
+1746309094 /home/pepe/Desktop/Proyectos Eda./EDA2/Biseccion.h
+	"Prestador.h"
+	<string.h>
+	<locale.h>
+
+1746225337 /home/pepe/Desktop/Proyectos Eda./EDA2/Prestador.h
+
+1746222044 /home/pepe/Desktop/Proyectos Eda./EDA2/LSOSS.h
+	<string.h>
+	<locale.h>
+	"Prestador.h"
+
+1746309732 /home/pepe/Desktop/Proyectos Eda./EDA2/ABB.h
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"Prestador.h"
+
+1747927237 c:\users\administrator\documents\preojects c\eda2\lso_fd.h
+	"Prestador.h"
+	<string.h>
+	<locale.h>
+
+1746783403 source:c:\users\ryzen\documents\eda2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<ctype.h>
+	"Biseccion.h"
+	"Prestador.h"
+	"LSO_FD.h"
+	"ABBFD.h"
+	"ABB.h"
+
+1746775584 c:\users\ryzen\documents\eda2\biseccion.h
+	"Prestador.h"
+	"LSO_FD.h"
+	<string.h>
+	<locale.h>
+
+1746225337 c:\users\ryzen\documents\eda2\prestador.h
+
+1746783953 c:\users\ryzen\documents\eda2\lso_fd.h
+	"Prestador.h"
+	<string.h>
+	<locale.h>
+
+1746756511 c:\users\ryzen\documents\eda2\abb.h
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"Prestador.h"
+
+1746770862 c:\users\ryzen\documents\eda2\abbfd.h
+
+1747931675 c:\users\administrator\documents\preojects c\eda2\abbfd.h
+
+1751672117 source:c:\users\administrator\documents\preojects c\rp1-grupo7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<ctype.h>
+	"Biseccion.h"
+	"Prestador.h"
+	"LSO_FD.h"
+	"ABBFD.h"
+	"ABBN.h"
+
+1751668610 c:\users\administrator\documents\preojects c\rp1-grupo7\biseccion.h
+	"Prestador.h"
+	"LSO_FD.h"
+	<string.h>
+	<locale.h>
+
+1751659022 c:\users\administrator\documents\preojects c\rp1-grupo7\prestador.h
+
+1751673759 c:\users\administrator\documents\preojects c\rp1-grupo7\lso_fd.h
+	"Prestador.h"
+	<string.h>
+	<locale.h>
+
+1751668079 c:\users\administrator\documents\preojects c\rp1-grupo7\abbfd.h
+
+1750839470 c:\users\administrator\documents\preojects c\rp1-grupo7\abb.h
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"Prestador.h"
+
+1751669034 c:\users\administrator\documents\preojects c\rp1-grupo7\abbn.h
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"Prestador.h"
+

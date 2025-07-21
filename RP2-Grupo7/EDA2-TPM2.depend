@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1750526321 source:c:\users\administrator\documents\preojects c\eda2-tpm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prestador.h"
+	"RAL.h"
+
+1748785998 c:\users\administrator\documents\preojects c\eda2-tpm2\prestador.h
+	<string.h>
+
+1751602200 c:\users\administrator\documents\preojects c\eda2-tpm2\ral.h
+
